@@ -21,8 +21,8 @@ public class StudentInformationSystem {
         System.out.println("Name: Amin Rafid bin Ashari"); 
         //Display my student ID
         System.out.println("Student ID: S87311"); 
-        int mark1 = 60;
-        int mark2 = 40;
+        int mark1 = 35;
+        int mark2 = 25;
         int totalMarks = mark1 + mark2;
         System.out.println("Your total mark is: "+ totalMarks); 
         if (totalMarks >= 90){
